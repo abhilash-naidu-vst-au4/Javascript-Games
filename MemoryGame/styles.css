@@ -1,0 +1,30 @@
+
+
+
+
+body {
+
+    background: #000000;
+    color:#ffffff;
+    
+}
+
+h2 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.grid {
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 100px;
+    margin-left: 500px;
+    margin-top: 110px;
+   
+}
+    
+
